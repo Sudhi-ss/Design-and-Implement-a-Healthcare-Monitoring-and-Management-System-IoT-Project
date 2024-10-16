@@ -1,0 +1,38 @@
+REPOSITORY TITLE:
+Design and Implement a Healthcare Monitoring and Management System (IoT Project)
+
+DESCRIPTION:
+
+Nowadays Internet of Things is bringing a revolution in the infrastructure of technologies. The IoT-based health monitoring system is essentially a patient monitoring system in which he can be supervised 24*7. Remote Patient Monitoring arrangement enables observation of patients outside of customary clinical settings (e.g. at home), which expands access to human services thus bringing down costs. Healthcare is given extreme importance by each country with the advent of the novel coronavirus.
+
+Recently there has been a spike in the use of smartphones and along with that, wearable sensor remote health monitoring has evolved quickly. IoT not only helps in preventing the spread of disease but also in getting a proper diagnosis, even if the doctor is present at a remote distance By facilitating effortless interaction among various modules, IoT has enabled us to implement various complex systems such as smart home appliances, smart traffic control systems, etc.
+
+PROPOSED SYSTEM:
+
+
+The main objective of this Healthcare Monitoring and Management System is to develop, design, and implement a smart patient healthcare monitoring system. The sensors used here are embedded in the body of the patient to sense the parameters like the heartbeat and temperature. These sensors are connected to a master unit, which calculates all of their values. These values are then transmitted by leveraging IoT cloud technology, to the base. From the base station, these can be easily accessed by the doctor present at some other location. Thus based on the temperature and heartbeat values, the doctor can decide the state of the patient and appropriate measures can be taken.
+
+OBJECTIVE:
+
+Monitor patient parameters remotely to increase the efficacy of healthcare management systems
+
+IDEATION:
+
+We need to monitor the patient parameters from remote distances using various sensors. The data given out by the sensors are then sent over to the cloud for further access via a Wi-Fi module (inbuilt or externally connected). This is being done to reduce the critical time of testing patient parameters before any major operation.
+
+Here we are measuring the temperature and pulse parameters of a patient remotely.
+
+Components required:-
+
+MLX 90614 Temperature
+MAX 30102 Pulse Rate
+Jumper wires.
+Nodemcu ESP8266 board
+
+SUMMARY:
+
+ Health care is given extreme importance nowadays by each country with the advent of the novel coronavirus. Thus in this regard, an IoT-controlled healthcare monitoring system is most probably the best solution for such an epidemic. Internet of Things (IoT) is the new revolution of the internet which is a growing research field, especially in health-related services.
+
+“Healthcare Monitoring and Management System” is the project where we have mainly focused on two objectives first one was a smart health monitoring system, to collect the health history of patients with a unique ID and store it in a database so that doctors need not spend much of their time in search of the report and give analysis right from the dashboard. Any health care that is being done will be updated and reflected in the dashboard itself. And the other one is the Wearable-Sensor-Based Fall Detection System for aged people, to monitor their movements of them, recognize a fall from normal daily activities by using sensors, and automatically send a request or an alert for help to the caregivers so that they can pick up the patient.
+
+However, there are a few shortcomings to this too. Basic knowledge of the operation is to be learned by the caregivers. Also, both the caregiver and the wearer should know how to protect the sensors from water damage or any physical damage.
